@@ -16,3 +16,6 @@ Cohort_User
 Cohort_Portfolio
 1. 포트폴리오 관심 유저 중 5일 동안 방문했던 유저의 재방문율을 확인
 2. 랭킹 시스템 도입 후 2021년 11월의 5일 동안 포트폴리오 관심유저의 재방문율이 약 1.7배 상승
+
+작업 시 참고했던 사이트 입니다. 
+https://workingwithpython.com/pythoncohortanalysis/
